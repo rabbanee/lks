@@ -1,1 +1,1 @@
-This repo is documentation my practicce for LKS
+This repo is documentation my practice for LKS
